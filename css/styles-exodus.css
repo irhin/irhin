@@ -1,0 +1,18 @@
+@import url(styles.css);
+
+textarea#exodus {
+	width: 100%;
+	height: 90vh;
+	font-size: calc(3.5vw + 3.5vh + 2vmin);
+	font-family: 'Exodus';
+	color: white;
+	background-color: #000;
+    border: none;
+    overflow: hidden;
+    outline: none;
+	text-transform: uppercase;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    resize: none;
+}
